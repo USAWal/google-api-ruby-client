@@ -16,6 +16,7 @@ group :development do
   gem 'launchy', '~> 2.4'
   gem 'dotenv', '~> 2.0'
   gem 'fakefs', '~> 0.6', require: "fakefs/safe"
+  gem 'googleauth', '~> 0.4.2'
 end
 
 platforms :jruby do

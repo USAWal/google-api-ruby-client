@@ -27,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'launchy', '~> 2.4', '>= 2.4.3'
   spec.add_runtime_dependency 'thor', '~> 0.19'
   spec.add_runtime_dependency 'memoist', '~> 0.11'
+  spec.add_runtime_dependency 'googleauth', '~> 0.4.2'
 end
